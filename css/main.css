@@ -1,0 +1,73 @@
+
+/* Inserta tu codigo aqui */
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
+
+.logo{
+	width: 30%;
+}
+
+ul{
+	float: right;
+	color: white;
+	padding-top: 2%;
+	padding-right: 0;
+}
+
+ul>li{
+	display: inline-block;
+	text-decoration: none;
+	padding-left: 3%;
+}
+
+.main{
+	width: 70%;
+	height: 40%;
+	background-color: #000000;
+	position: relative;
+}
+.rel{
+	position: absolute;
+
+}
+
+header{
+	background-color: #000000;
+}
+.fondo1{
+	background-color:  #222222;
+}
+.fondo2{
+	background-color:  #332233;
+}
+
+.fit{
+	width: 100%;
+}
+
+.amarillo{
+	color: yellow;
+	font-size: 1.5em;
+}
+.blanco{
+	color:white;
+	font-size: 1.3em;
+}
+
+i{
+	border-radius: 100%;
+	background-color:#332233;
+	padding: 2% 3%;
+}
+/*
+.row{
+	padding:2%;
+}*/
